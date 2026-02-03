@@ -1,0 +1,29 @@
+# Build outputs
+build/
+Debug/
+Release/
+x64/
+win32/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.vcxproj
+*.vcxproj.filters
+*.sln
+*.obj
+*.ilk
+*.pdb
+*.log
+*.tlog
+
+# VS/IDE
+.vs/
+*.user
+*.userosscache
+*.suo
+*.cache
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,9 @@
+#ifndef CONSTANTS_H
+#define CONSTANTS_H
+
+#define PI 3.141592653
+#define DBPI 6.28318530717959
+#define HALF_PI 1.5707963267949
+#define SecondHandVelocity 0.10471975511966
+
+#endif // !CONSTANTS_H
